@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.style{
+	background-color:yellow;
+	text-align:center;
+}
+#f1{
+	text-decoration:underline;
+	background-image:url("https://images.pexels.com/photos/60628/flower-garden-blue-sky-hokkaido-japan-60628.jpeg?auto=compress&cs=tinysrgb&w=600");
+	height:400px;
+	width:700px;
+	background-cover:cover;
+}
+
+#f2{
+		 text-decoration:underline;
+	background-image:url("https://images.pexels.com/photos/697259/pexels-photo-697259.jpeg?auto=compress&cs=tinysrgb&w=600");
+	height:400px;
+	
+}
